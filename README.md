@@ -3,9 +3,3 @@
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=yaaprogrammer)
 
 ---
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
----
